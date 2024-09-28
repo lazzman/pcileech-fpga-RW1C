@@ -2,13 +2,13 @@
 
 # Credits:
 
-# Ufrisk (https://github.com/ufrisk/pcileech-fpga)
+Ufrisk (https://github.com/ufrisk/pcileech-fpga)
 
-# spicyninja (discord: spicy_ninja) (UC: spicyninja800)
+spicyninja (discord: spicy_ninja) (UC: spicyninja800)
 
-# Ice (discord: ice_1c)
+Ice (discord: ice_1c)
 
-# Clincy (discord: cincyyy) (server: https://discord.gg/clincy) 
+Clincy (discord: cincyyy) (server: https://discord.gg/clincy) 
 
 Modified version of stock pcileech for bypassing the drvscan targeted at detecting RW1C bits.
 
